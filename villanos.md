@@ -2,3 +2,4 @@
 
 *Denji
 *Kamijo
+\*Sakuna
