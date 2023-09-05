@@ -2,4 +2,5 @@
 
 *Denji
 *Kamijo
-\*Sakuna
+
+- Capitan America
